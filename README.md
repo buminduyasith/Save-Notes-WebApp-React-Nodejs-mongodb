@@ -8,8 +8,6 @@
  
  ## About
  ---
- 
-The application uses the core features a person would want to use from software like FusionAuth. In order to do that, the Todo example includes routing to make all of these items happen. Included features are:
 
 - Signup / login (JWT Authentication)
 - Create, read Notes.
