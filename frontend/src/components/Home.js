@@ -3,7 +3,7 @@ import './home.module.css'
 function Home() {
 
     return (
-        <div className='Home container'>
+        <div className='Home container mt-3'>
 
             <div className="jumbotron">
             <h1 className="display-4">Hello, world!</h1>
