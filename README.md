@@ -11,7 +11,7 @@
  
 The application uses the core features a person would want to use from software like FusionAuth. In order to do that, the Todo example includes routing to make all of these items happen. Included features are:
 
-- Signup / login.
+- Signup / login (JWT Authentication)
 - Create, read Notes.
 - Save all user details and Notes on Database (mongodb)
 - save user Details on local storage so use no need keep loging again and again(Keep the user logged in, after the browser window has closed).
