@@ -3,7 +3,7 @@
  
  ## **Summary: A React app that uses react-router and axios to interact with an Nodejs Express API connecting to mongodb**
  
- ![alt text](samples/Dashboard.PNG)
+ ![alt text](samples/Dashboard2.PNG)
  
  
  ## About
